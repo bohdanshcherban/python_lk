@@ -1,0 +1,6 @@
+1. Где взять интерпретатор - https://www.python.org/downloads/
+2. Пайчарм - https://www.jetbrains.com/pycharm/
+3. Пайтонтьютор - http://pythontutor.com/visualize.html#mode=edit
+4. Тут можно посмотреть информацию как что в Пайтон работает - https://www.w3schools.com/python/default.asp
+5. Как поставить гит и все что нам понадобится для работы (даже немного больше) - https://proglib.io/p/git-for-half-an-hour
+6. В папке с лекцией есть книжка, ее можно не прям что бы вычитываю,
